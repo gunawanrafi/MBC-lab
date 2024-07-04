@@ -598,3 +598,10 @@ body.dark-theme {
     right: 2rem;
   }
 }
+
+
+.nav__logo {
+  font-size: 28px; /* Contoh: perbesar menjadi 28px */
+}
+
+
